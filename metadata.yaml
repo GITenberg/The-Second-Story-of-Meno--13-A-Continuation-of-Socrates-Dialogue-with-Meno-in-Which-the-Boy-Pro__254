@@ -1,0 +1,24 @@
+_repo: The-Second-Story-of-Meno--13-A-Continuation-of-Socrates-Dialogue-with-Meno-in-Which-the-Boy-Pro__254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '254'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Mathematics'
+- !lcc 'QA'
+- GITenberg
+title: "The Second Story of Meno\r\nA Continuation of Socrates' Dialogue with Meno\
+  \ in Which the Boy Proves Root 2 is Irrational"
+url: http://www.gutenberg.org/ebooks/254
